@@ -1,7 +1,7 @@
 # CC3-DataManip
 Using tidyr, dplyr and piping for easy and efficient data manipulation
 
-1- Making data tidy using `gather()`from `tidyr`
+1- Making data tidy using `gather()`from `tidyr` <hr>
 2- Manipulating data with the intuitive `dplyr` tools 
 3- Using pipes `%>%`to chain commands in an easy-to-read way
 
