@@ -109,7 +109,10 @@ germin_summary <- germination %>%  # this is the dataframe
 
 # CHALLENGE!! -------------------------------------------------------------
 
-# Using the seedling dataset, extract, only for the seedlings above 850 m elevation and possessing more than 3 leaves, the mean, maximum and minimum SPAD value at each site and for each species. You should be able to do this with one chain of pipes
+# Using the seedling (`Seedling_Traits.csv`) dataset, extract, only for the seedlings above 850 m elevation and possessing more than 3 leaves, the mean, maximum and minimum SPAD value at each site and for each species. You should be able to do this with one chain of pipes.
+  # A SPAD is a machine which can estimate leaf chlorophyll content, by shining a light of a specific wavelength on the leaf.
+  # `SPAD.mean` contains the mean of three measurements on a single leaf on each seedling. `SPAD.SD` is the standard deviation of those measurements.
+  # This dataset was used to investigate the effect of adult tree competition on tree seedling stress levels. Low chlorophyll content is indicative of seedling stress. 
 
 
 
