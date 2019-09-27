@@ -2,7 +2,9 @@
 Learning to wrangle data with base R and the *Tidyverse*
 
 1- Using base R and logical operators to subset dataframes or replace values
+
 2- Making data tidy using `gather()`from `tidyr` <br>
+
 3- Manipulating data with the intuitive `dplyr` tools <br>
 
 This repository contains the files necessary to complete Coding Club's data manipulation tutorial - you can check it out at https://github.com/ourcodingclub/CC3-DataManip
