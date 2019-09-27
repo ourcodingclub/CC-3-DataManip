@@ -1,4 +1,4 @@
-# CC3-DataManip
+# Introduction to data manipulation in R
 Learning to wrangle data with base R and the *Tidyverse*
 
 1- Using base R and logical operators to subset dataframes or replace values
@@ -7,7 +7,7 @@ Learning to wrangle data with base R and the *Tidyverse*
 
 3- Manipulating data with the intuitive `dplyr` tools <br>
 
-This repository contains the files necessary to complete Coding Club's data manipulation tutorial - you can check it out at https://github.com/ourcodingclub/CC3-DataManip
+This repository contains the files necessary to complete Coding Club's [Intro to Data Manipulation](https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html) tutorial.
 
 For more about Coding Club, please see https://ourcodingclub.github.io/
 
